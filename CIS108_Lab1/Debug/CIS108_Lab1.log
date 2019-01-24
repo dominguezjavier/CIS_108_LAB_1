@@ -1,0 +1,2 @@
+﻿  Excercise2.cpp
+c:\users\doja7003\source\repos\cis108_lab1\cis108_lab1\excercise2.cpp(19): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
